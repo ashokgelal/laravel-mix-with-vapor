@@ -3,3 +3,7 @@ Packages
 xcuserdata
 *.xcodeproj
 Config/secrets
+node_modules
+Public/css
+Public/js
+manifest.json
