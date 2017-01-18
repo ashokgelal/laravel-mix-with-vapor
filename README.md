@@ -1,15 +1,3 @@
-# Basic Template
+## Mixing Laravel Mix with Vapor
 
-A basic vapor template for starting a new Vapor web application. If you're using vapor toolbox, you can use: `vapor new --template=basic`
-
-## 📖 Documentation
-
-Visit the Vapor web framework's [documentation](http://docs.vapor.codes) for instructions on how to use this package.
-
-## 💧 Community
-
-Join the welcoming community of fellow Vapor developers in [slack](http://vapor.team).
-
-## 🔧 Compatibility
-
-This package has been tested on macOS and Ubuntu.
+Example project that uses Laravel Mix to compile frontend assets in a Vapor project. [Visit this tutorial](https://ashokgelal.com/2017/01/17/laravel-mix-and-vapor/?ref=github) for full step-by-step tutorial.
