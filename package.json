@@ -6,6 +6,6 @@
   },
   "author": "Ashok Gelal",
   "devDependencies": {
-    "laravel-mix": "^0.4.0"
+    "laravel-mix": "git+https://github.com/JeffreyWay/laravel-mix.git"
   }
 }

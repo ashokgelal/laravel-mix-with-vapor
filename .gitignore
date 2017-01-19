@@ -7,3 +7,5 @@ node_modules
 Public/css
 Public/js
 manifest.json
+.idea/
+mix-manifest.json
